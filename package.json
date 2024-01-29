@@ -1,0 +1,22 @@
+{
+  "name": "gptsaver",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsukky/gptsaver.git"
+  },
+  "author": "Matsukky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matsukky/gptsaver/issues"
+  },
+  "homepage": "https://github.com/matsukky/gptsaver#readme",
+  "devDependencies": {
+    "jszip": "^3.10.1"
+  }
+}
